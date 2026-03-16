@@ -12,6 +12,7 @@ project:
     - title: Polynomial interpolation
       children:
         - file: contents/polynomial_interpotation/runge.ipynb
+        - file: contents/polynomial_interpotation/stability.ipynb
   github: https://github.com/hpc-maths/jb_numerical_analysis
 site:
   template: book-theme
