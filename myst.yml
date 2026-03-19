@@ -14,6 +14,10 @@ project:
         - file: contents/polynomial_interpotation/runge.ipynb
         - file: contents/polynomial_interpotation/cond.ipynb
         - file: contents/polynomial_interpotation/stability.ipynb
+    - title: Ordinary Differential Equations 
+      children:
+        - file: contents/odes/curtiss.ipynb
+
   github: https://github.com/hpc-maths/jb_numerical_analysis
 site:
   template: book-theme
