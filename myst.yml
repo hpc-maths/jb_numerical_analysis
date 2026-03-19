@@ -17,6 +17,7 @@ project:
     - title: Ordinary Differential Equations 
       children:
         - file: contents/odes/curtiss.ipynb
+        - file: contents/odes/curtiss_rk.ipynb
 
   github: https://github.com/hpc-maths/jb_numerical_analysis
 site:
